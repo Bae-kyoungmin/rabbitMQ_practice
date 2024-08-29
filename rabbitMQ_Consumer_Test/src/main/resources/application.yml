@@ -1,0 +1,6 @@
+server:
+  port: 8033
+    
+rabbitmq:
+  queue:
+    name: sample-queue
